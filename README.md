@@ -24,7 +24,7 @@ The goal of this project is to analyze real network traffic and understand how c
 
 
 ## Screenshots
-<img width="1439" height="900" alt="Wireshark-dns-analysis" src="https://github.com/user-attachments/assets/f2134dd4-03d6-43eb-bdec-b1b63c105ac2" />
+<img width="1439" height="900" alt="dns-analysis" src="https://github.com/user-attachments/assets/7f52d871-0ab7-46a7-819b-9f6752639373" />
 
 
 * Captured a DNS AAAA query for ICdn-locator.apple.com
